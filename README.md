@@ -19,6 +19,6 @@
 
 ## Overview
 
-This add-on is for use with the German translation of BP-BGT Worldmap, version 8 or more recent. Using it gives you a worldmap with writing in German.
+This add-on is for use with the German translation of BP-BGT Worldmap. Using it gives you a worldmap with writing in German.
 
-You apply the add-on by placing the included :file_folder: *moz* folder in *bp-bgt_worldmap/language/German*. On Windows you can do this simply by extracting the add-on on top of the extracted contents of the main BP-BGT Worldmap package.
+You apply the add-on by placing the included :file_folder: *moz* folder in *bp-bgt-worldmap/language/German*. On Windows you can do this simply by extracting the add-on on top of the extracted contents of the main BP-BGT Worldmap package.
