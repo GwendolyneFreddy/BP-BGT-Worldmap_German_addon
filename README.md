@@ -9,13 +9,14 @@
 
 </div><br />
 
-
 **Authors:** Yacomo, King Diamond, Erebusant, Weigo  
 **Mod Website and Forum:** <a href="http://www.shsforums.net/forum/401-worldmap/">Spellhold Studios</a><br /><br />
 
-
 <hr>
 
+⚠️ **Starting from BP-BGT-Worldmap v12, the language add-ons are no longer required. The localized maps are now available for all supported languages in the main mod package.**
+
+<hr>
 
 ## Overview
 
